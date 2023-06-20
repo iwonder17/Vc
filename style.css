@@ -229,7 +229,7 @@ overflow: hidden;
     background-color: white;
     color:deeppink
 }
-.ep{display :none}
+.ep{display :block}
 
 @keyframes o {
     from{opacity: 0}
